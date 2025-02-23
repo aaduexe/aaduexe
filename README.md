@@ -1,6 +1,6 @@
 ## **Aadu** is not my real name. (Obviously)
 
-🦕 There is huge possibility of me haveing ADHD.<br/>
+🦕 There is huge possibility of me having ADHD.<br/>
 🎿 Storyboard, Filmaking, Chess, Code, Game Dev, Accounts, Langua... sigh!<br/>
 🎭 But 0 things to show.<br/>
 

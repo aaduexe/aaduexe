@@ -22,7 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aaduexe&icon=5&color=2)](https://visitcount.itsvg.in)
 
-☕ Get that druggg to maintain the functionality of my brain!<br/>
+☕ Buy me that druggg to maintain functionality of my brain!<br/>
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aaduexe) 
 
   

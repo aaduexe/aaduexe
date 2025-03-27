@@ -5,7 +5,7 @@
 🎭 But 0 things to show.<br/>
 
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadu.archives) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aaduexe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aaduexe) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aaduexe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aaduexe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaduexe@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaduexe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aaduexe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aaduexe) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aaduexe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aaduexe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaduexe@gmail.com) 
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaduexe&theme=calm_pink&hide_border=true)<br/>
